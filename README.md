@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html>
 <!-- saved from url=(0352)file:///C:/Users/pc/Desktop/New%20folder%20(3)/New%20folder/New%20folder/New%20folder/%D9%82%D8%A7%D9%84%D8%A8%D9%87%D8%A7%DB%8C%20%D8%B3%D8%A7%D8%AE%D8%AA%D9%87%20%D8%B4%D8%AF%D9%87%20%D8%A8%D8%A7%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%B3%D8%A7%D8%B2%20%D9%88%20%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87%20%D8%B3%D8%A7%D8%B2%20%D9%BE%D9%88%D9%BE%D8%B4.html -->
 <html lang="fa"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		
+		![91](https://github.com/s898892/4/assets/145144331/86f872c0-0ed7-412d-866b-606e53421724)
 		
 		<meta http-equiv="content-language" content="fa">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
