@@ -13,8 +13,8 @@
 		<meta name="msvalidate.01" content="F4234B99D4A04D4143205305D05DF200">
 		<meta name="fontiran.com:license" content="WUGC6">
 		<link rel="canonical" href="https://poopesh.com/page/template">
-<link rel="alternate" href="https://poopesh.com/page/template" hreflang="fa">
-		<link rel="shortcut icon" href="https://poopesh.com/images/favicon.ico" type="image/x-icon">
+<link rel="<?();php echo get_template_directory_uri?>alternate" href="https://poopesh.com/page/template" hreflang="fa">
+		<link rel="<?();php echo get_template_directory_uri?>shortcut icon" href="https://poopesh.com/images/favicon.ico" type="image/x-icon">
 					<script async="" src="file://www.google-analytics.com/analytics.js"></script><script async="" src="file://www.google-analytics.com/analytics.js"></script><script async="" src="file://www.google-analytics.com/analytics.js"></script><script async="" src="./sit_files/analytics.js.download"></script><script async="" src="./sit_files/js"></script>
 			<script>
 				window.dataLayer = window.dataLayer || [];
@@ -25,8 +25,8 @@
 				gtag('js', new Date());
 				gtag('config', 'AW-10879638310');
 			</script>
-							<link rel="stylesheet" href="./sit_files/all.css" media="only screen and (min-width: 600px)" type="text/css">
-		<link rel="stylesheet" href="./sit_files/all_mobile.css" media="screen and (max-width: 600px) and (max-aspect-ratio: 13/9)" type="text/css">
+							<link rel="<?();php echo get_template_directory_uri?>stylesheet" href="./sit_files/all.css" media="only screen and (min-width: 600px)" type="text/css">
+		<link rel="<?();php echo get_template_directory_uri?>stylesheet" href="./sit_files/all_mobile.css" media="screen and (max-width: 600px) and (max-aspect-ratio: 13/9)" type="text/css">
 		<script async="" type="text/javascript" src="./sit_files/all_combine.js.download"></script>
 		<script>
 			var site_url = 'https://poopesh.com/';
